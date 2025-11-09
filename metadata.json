@@ -1,0 +1,5 @@
+{
+  "name": "Video Scene Generator",
+  "description": "An AI assistant that transforms simple ideas into rich, detailed, and powerful prompts for video generation AI tools like Google's Veo.",
+  "requestFramePermissions": []
+}
